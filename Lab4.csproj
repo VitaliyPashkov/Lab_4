@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Lab4.Task3</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Новая папка\" />
+  </ItemGroup>
+
+</Project>
